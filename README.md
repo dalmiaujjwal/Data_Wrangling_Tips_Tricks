@@ -1,5 +1,5 @@
 # Data_Wrangling_Tips_Tricks
-### Find the solution of most common data wrangling problems
+### Find the solution to the most common data wrangling problems
 
 70 to 80% of our time in an analytical/ data science project is spent on data preparation. Whether working with structured or unstructured data, there are a few data-wrangling scenarios that we can't solve directly using standard package functions. This repository will provide you with solutions to such scenarios. 
 Each folder in the repository will have 3 files:
