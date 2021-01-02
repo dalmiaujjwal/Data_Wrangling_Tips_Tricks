@@ -1,0 +1,1 @@
+https://towardsdatascience.com/data-wrangling-solutions-dynamically-creating-variables-when-slicing-dataframes-fc5613c46831
