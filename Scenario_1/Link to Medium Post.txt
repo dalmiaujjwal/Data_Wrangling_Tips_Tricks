@@ -1,1 +1,1 @@
-https://towardsdatascience.com/data-wrangling-solutions-dynamically-creating-variables-when-slicing-dataframes-fc5613c46831
+https://towardsdatascience.com/data-wrangling-for-beginners-a-unique-feature-of-python-language-53bd9f1cd166?sk=145d433240b303c1526a36f1f3ba6bfb
